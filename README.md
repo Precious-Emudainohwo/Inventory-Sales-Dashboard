@@ -66,4 +66,5 @@ The dashboard enables decision-makers to quickly move from data observation to s
 * Inventory Gap Analysis
 <img width="1601" height="838" alt="Dashboard-Preview Png" src="https://github.com/user-attachments/assets/8c4e1ef2-a62c-4f72-8c88-44b1e0665893" />
 [Download Excel](https://github.com/Precious-Emudainohwo/Inventory-Sales-Dashboard/blob/main/Inventory%20Sales%20Dashboard.xlsm)
+
 [Download PDF Report](https://github.com/Precious-Emudainohwo/Inventory-Sales-Dashboard/blob/main/Inventory_Sales_Dashboard_Project_Description.pdf.pdf)
