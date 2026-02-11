@@ -64,4 +64,5 @@ The dashboard enables decision-makers to quickly move from data observation to s
 * Slicers for interactivity
 * KPI Card Design
 * Inventory Gap Analysis
+<img width="1601" height="838" alt="Dashboard-Preview Png" src="https://github.com/user-attachments/assets/8c4e1ef2-a62c-4f72-8c88-44b1e0665893" />
 
